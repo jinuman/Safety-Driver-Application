@@ -1,27 +1,33 @@
 # rent-market-develop
-This service is for borrowing products to whoever wants to use for a certain period. Aiming to develop as a group study basically.
+This service is basically for users who want to lend or borrow some longing products.  
+Aiming to develop as a group study.
 
-## ÆÀ ±¸¼º¿ø
-- °­¼®À± : 
-- ±èÁø¿ì : jinuman
-- ±è¹Î¼º : 
+## ¿ ¿¿¿
+- ¿¿¿ : 
+- ¿¿¿ : jinuman
+- ¿¿¿ : 
 
-## °³¿ä
+## ¿¿
 
-- À¥ ¸¶ÄÏ ¼­ºñ½º ÆÀ ½ºÅÍµð
-- ÇÁ·ÎÁ§Æ® ±¸¼º
+- ¿¿¿¿¿ ¿¿ ¿¿¿¿ ¿¿¿¿ ¿ ¿¿¿ ¿¿
+- ¿¿¿ ¿¿¿¿ ¿¿
+- ¿¿¿¿ ¿¿
 ```
 rent-market-develop
-    ¦¢?? ¦¦¦¡¦¡ * Root µð·ºÅä¸®
-    ¦§¦¡¦¡ study-doc
-    ¦¢?? ¦¦¦¡¦¡ * °¢Á¾ ½ºÅÍµðÇÑ ÀÚ·áµéÀ» °ü¸®ÇÏ´Â µð·ºÅä¸®
-    ¦¦¦¡¦¡ questions
-        ¦¦¦¡¦¡ * Áú¹® µð·ºÅä¸®
+    ¿   ¿¿¿ * ¿¿ ¿¿¿¿
+    ¿¿¿ study-doc
+    ¿   ¿¿¿ * ¿¿¿ ¿¿¿¿ ¿¿
+    ¿¿¿ temp
+    ¿   ¿¿¿ *
+    ¿¿¿ temp
+    ¿   ¿¿¿ * 
+    ¿¿¿ temp
+        ¿¿¿ * 
 ```
-## Âü°í
+## ¿¿
 -
 -
-
+---
 ### [Web Study]
 -
 -
@@ -33,3 +39,5 @@ rent-market-develop
 ### [Git, Python Study]
 - 
 - 
+
+---
