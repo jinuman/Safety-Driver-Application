@@ -24,7 +24,7 @@ rent-market-develop
     └── temp
         └── * 
 ```
-## 개요
+## 참고
 -
 -
 ---
