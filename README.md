@@ -21,7 +21,7 @@ market-service-study
     │   └── jinwoo 
     │   └── seokyoon
     │   └── minsung
-    │         └── * study-contents for each person in every week
+    │         └── * study-contents for each person in every week	
     └── etc
         └── * same as above
 ```
