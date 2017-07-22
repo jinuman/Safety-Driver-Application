@@ -1,4 +1,4 @@
-# rent-market-develop
+# market-service-study
 This service is basically for users who want to lend or borrow some longing products.  
 Aiming to develop as a group study.
 
@@ -13,31 +13,20 @@ Aiming to develop as a group study.
 - 그룹 스터디로 진행
 - 디렉토리 구성
 ```
-rent-market-develop
-    │   └── * 루트 디렉토리
-    ├── study doc
-    │   └── * 스터디한 자료들을 관리하는 디렉토리
-    ├── temp
-    │   └── * 
-    ├── temp
-    │   └── * 
-    └── temp
-        └── * 
+market-service-study
+    │   └── * root directory
+    ├── main-repo
+    │   └── * working codes
+    ├── study-contents
+    │   └── jinwoo 
+    │   └── seokyoon
+    │   └── minsung
+    │         └── * study-contents for each person in every week
+    └── etc
+        └── * same as above
 ```
+- study-contents 파일 업로드 형식
+- study-contents 
 ## 참고사항
 -
--
----
-### [Web Study]
--
--
-
-### [Android Study]
--
--
-
-### [Git, Python Study]
-- 
-- 
-
 ---
