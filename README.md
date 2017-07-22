@@ -3,8 +3,8 @@ This service is basically for users who want to lend or borrow some longing prod
 Aiming to develop as a group study.
 
 ## 팀 구성원
-- 강석윤 : 
 - 김진우 : jinuman
+- 강석윤 : 
 - 김민성 : 
 
 ## 개요
