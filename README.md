@@ -21,13 +21,15 @@ market-service-study
     │   └── jinwoo 
     │   └── seokyoon
     │   └── minsung
-    │         └── * study-contents for each person in every week
+    │         └── * study-contents for each person in every week recommended
+    ├── minutes
+    │	└── * 회의록
     └── etc
         └── * same as above
 ```
 * study-contents 파일 업로드 제목 형식: id-month-date-간단한제목
 	* ex) jinuman-07-23-Github.docx
-1. 우리가 스터디한 것을 나중이라도 보고싶을 때 볼 수 있도록 하는 취지입니다.
+1. 우리 스터디한 것을 나중이라도 보고싶을 때 볼 수 있도록 하는 취지입니다.
 2. 최대한 상대방이 이해할 수 있도록 파일을 작성해주세요.
 3. 각자 폴더는 각자 관리할 것입니다. 
 4. 위의 제목 형식만 맞춰주세요. 나머지 폴더 구성등은 자유입니다. 
