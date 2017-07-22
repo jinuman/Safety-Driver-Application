@@ -28,7 +28,7 @@ market-service-study
         └── * same as above
 ```
 * study-contents 파일 업로드 제목 형식: id-month-date-간단한제목
-	* ex) jinuman-07-23-Github.docx
+	* ex) **jinuman-07-23-Github.docx
 1. 우리 스터디한 것을 나중이라도 보고싶을 때 볼 수 있도록 하는 취지입니다.
 2. 최대한 상대방이 이해할 수 있도록 파일을 작성해주세요.
 3. 각자 폴더는 각자 관리할 것입니다. 
