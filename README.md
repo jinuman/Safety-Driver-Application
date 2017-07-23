@@ -1,11 +1,11 @@
-# market-service-study
+﻿# market-service-study
 This service is basically for users who want to lend or borrow some longing products.  
 Aiming to develop as a group study.
 
 ## 팀 구성원
 - 김진우 : jinuman
-- 강석윤 : 
-- 김민성 : 
+- 강석윤 :  
+- 김민성 : ddolsoon
 
 ## 개요
 
