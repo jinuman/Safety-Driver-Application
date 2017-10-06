@@ -1,6 +1,5 @@
-﻿# market-service-study
-This service is basically for users who want to lend or borrow some longing products.  
-Aiming to develop as a group study.
+# Safety-Driver-Application
+
 
 ## 팀 구성원
 - 김진우 : jinuman
@@ -10,13 +9,12 @@ Aiming to develop as a group study.
 
 ## 개요
 
-- 사용자간 제품 공유 웹 서비스 시스템 구축
 - 그룹 스터디로 진행
 - 디렉토리 구성
 ```
-market-service-study
+Safety-Driver-Application
     │   └── * root directory
-    ├── main-repo
+    ├── safety-driver-server
     │   └── * working codes
     ├── study-contents
     │   └── jinwoo 
