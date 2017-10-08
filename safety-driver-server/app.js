@@ -4,11 +4,16 @@ var logger = require('morgan');
 var bodyParser = require('body-parser');
 var cookieParser = require('cookie-parser');
 
+//flash 메시지
+var flash = require('connect-flash');
 
+//passport 로그인
+var passport = require('passport');
+var session = require('express-session');
 
 //MongoDB 접속
 var mongoose = require('mongoose');
-mongoose.Promise = global.Promise;
+// mongoose.Promise = global.Promise;
 var autoIncrement = require('mongoose-auto-increment');
 
 var connect = mongoose.connect(
@@ -38,6 +43,23 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
+
+//session 관련 셋팅
+app.use(session({
+    secret: 'jinu', // 쿠키임의변조 방지
+    resave: false, // 세션을 언제나 저장할지?
+    saveUninitialized: true, // 세션이 저장되기 전에 Uninitialized 상태로 만
+    cookie: {
+        maxAge: 2000 * 60 * 60 //지속시간 2시간
+    }
+}));
+
+//passport 적용
+app.use(passport.initialize());
+app.use(passport.session());
+
+// Flash message
+app.use(flash());
 
 app.get('/', function(req, res){
     res.send('안전운전해라');
